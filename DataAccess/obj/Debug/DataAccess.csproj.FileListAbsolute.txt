@@ -13,3 +13,6 @@ C:\Users\Sefa\Desktop\mvc-kamp\DataAccess\obj\Debug\DataAccess.csproj.CoreCompil
 C:\Users\Sefa\Desktop\mvc-kamp\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
 C:\Users\Sefa\Desktop\mvc-kamp\DataAccess\obj\Debug\DataAccess.dll
 C:\Users\Sefa\Desktop\mvc-kamp\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Sefa\Desktop\mvc-kamp\DataAccess\obj\Debug\DataAccess.Migrations.mig_writer_edit.resources
+C:\Users\Sefa\Desktop\mvc-kamp\DataAccess\obj\Debug\DataAccess.csproj.GenerateResource.cache
+C:\Users\Sefa\Desktop\mvc-kamp\DataAccess\obj\Debug\DataAccess.Migrations.mig_writertitle_add.resources

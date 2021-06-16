@@ -20,14 +20,20 @@ namespace Entity.concrete
         [StringLength(500)]
 
         public string WriterImage { get; set; }
-        [StringLength(500)]
 
         public string WriterMail { get; set; }
         [StringLength(500)]
 
         public string WriterPassword { get; set; }
+
+        [StringLength(200)]
+
+        public string WriterAbout { get; set; }
         [StringLength(1000)]
 
+        public string WriterTitle { get; set; }
+
+        [StringLength(200)]
 
         public ICollection<Heading> Headings { get; set; }
         public ICollection<Content> Contents { get; set; }
