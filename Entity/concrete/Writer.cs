@@ -17,12 +17,13 @@ namespace Entity.concrete
         [StringLength(500)]
 
         public string WriterSurName { get; set; }
-        [StringLength(500)]
+        [StringLength(2000)]
 
         public string WriterImage { get; set; }
+        [StringLength(2000)]
 
         public string WriterMail { get; set; }
-        [StringLength(500)]
+        [StringLength(2000)]
 
         public string WriterPassword { get; set; }
 
@@ -33,7 +34,9 @@ namespace Entity.concrete
 
         public string WriterTitle { get; set; }
 
-        [StringLength(200)]
+        //[StringLength(200)]
+
+        public bool WriterStatus { get; set; }
 
         public ICollection<Heading> Headings { get; set; }
         public ICollection<Content> Contents { get; set; }
