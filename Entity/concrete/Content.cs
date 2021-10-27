@@ -30,5 +30,7 @@ namespace Entity.concrete
         public int? WriterID { get; set; }
         public virtual Writer Writer { get; set; }
 
+        public bool ContentStatus { get; set; }
+
     }
 }

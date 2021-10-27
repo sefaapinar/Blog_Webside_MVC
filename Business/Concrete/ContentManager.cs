@@ -43,7 +43,7 @@ namespace Business.Concrete
             throw new NotImplementedException();
         }
 
-        public List<Content> getListByID(int id)
+        public List<Content> getListByHeadingID(int id)
         {
             return _contentDal.List(x => x.HeadingID == id);
         }

@@ -24,5 +24,7 @@ namespace Entity.concrete
 
         public ICollection<Content> Contents { get; set; }
 
+        public bool HeadingStatus { get; set; }
+
     }
 }

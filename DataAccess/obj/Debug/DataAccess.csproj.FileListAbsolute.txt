@@ -18,3 +18,5 @@ C:\Users\Sefa\Desktop\mvc-kamp\DataAccess\obj\Debug\DataAccess.csproj.GenerateRe
 C:\Users\Sefa\Desktop\mvc-kamp\DataAccess\obj\Debug\DataAccess.Migrations.mig_writertitle_add.resources
 C:\Users\Sefa\Desktop\mvc-kamp\DataAccess\obj\Debug\DataAccess.Migrations.mid_imagesizechange.resources
 C:\Users\Sefa\Desktop\mvc-kamp\DataAccess\obj\Debug\DataAccess.Migrations.mid_writer_addstatus.resources
+C:\Users\Sefa\Desktop\mvc-kamp\DataAccess\obj\Debug\DataAccess.Migrations.mig_contentstatusadd.resources
+C:\Users\Sefa\Desktop\mvc-kamp\DataAccess\obj\Debug\DataAccess.Migrations.mig_headingstatusadd.resources
